@@ -58,11 +58,12 @@
                 📌 <b><a href="https://github.com/dabin5682/messenger-exercise-ATGG_03_011-ATGG_03_041" style="text-decoration: none; color: #0969da;">Java TCP Socket 실시간 팀 메신저 프로그램</a></b>
                 <ul>
                     <li><b>Description:</b> Java Socket 프로그래밍을 활용하여 네트워크 통신 흐름을 직접 제어한 실시간 채팅 서비스</li>
-                    <li><b>My Role:</b> Client-side 아키텍처 설계 및 구현</li>
+                    <li><b>My Role:</b> Client-side 아키텍처 설계 및 데이터 송수신 로직 구현</li>
                     <li><b>Key Contributions:</b>
                         <ul>
                             <li><b>실시간 스트림 처리:</b> 서버와의 안정적인 TCP 연결 수립 및 입출력(I/O) 스트림 제어</li>
-                            <li><b>클라이언트 로직 최적화:</b> 서버로부터 전달받은 채팅 데이터를 파싱하여 사용자 화면에 실시간으로 동기화하는 로직 구현</li>
+                            <li><b>이미지 전송 기능 구현:</b> 파일 입출력(I/O) 스트림을 제어하여 텍스트 데이터뿐만 아니라 이미지 바이너리 데이터를 안전하게 송수신하는 클라이언트 기능 구축</li>
+                            <li><b>클라이언트 로직 최적화:</b> 서버로부터 전달받은 다중 포맷 데이터(텍스트/이미지)를 파싱하여 사용자 화면에 실시간으로 동기화하는 로직 구현</li>
                         </ul>
                     </li>
                 </ul>
