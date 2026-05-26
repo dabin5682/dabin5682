@@ -32,13 +32,41 @@
     </div>
 </div>
 
-<!-- 💻 주요 프로젝트나 학습 내용을 보여줄 수 있는 섹션 (선택 사항, 필요시 주석 해제하여 사용) -->
+<!--  Projects  -->
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Main Projects </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Core Projects </h2>  
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33; line-height: 1.8;"> 
         <ul>
-            <li><b>[프로젝트명]</b> - Spring Boot 기반 쇼핑몰 웹 서비스 개발 (인증, 결제, 권한 관리 구현)</li>
-            <li><b>[프로젝트명]</b> - Java Socket 기반 실시간 메신저 프로그램 개발</li>
+            <!-- 1. 쇼핑몰 프로젝트 -->
+            <li>
+                📌 <b><a href="https://github.com/dabin5682/java-servlet-jsp-shoppingmall_ATGG_03_015_ATGG_03_041" style="text-decoration: none; color: #0969da;">Java Servlet/JSP 웹 쇼핑몰 구축 프로젝트</a></b>
+                <ul>
+                    <li><b>Description:</b> Java Servlet과 JSP를 기반으로 구현한 정석적인 MVC 패턴의 웹 커머스 서비스</li>
+                    <li><b>My Role:</b> 백엔드 핵심 비즈니스 로직 및 UI 컴포넌트 구현</li>
+                    <li><b>Key Contributions:</b>
+                        <ul>
+                            <li><b>포인트 시스템 설계:</b> 유저의 구매 및 활동에 따른 포인트 적립/차감 비즈니스 로직 개발</li>
+                            <li><b>상품(제품) 관리:</b> DB 연동을 통한 상품 등록, 카테고리별 조회 및 리스트 최적화 구현</li>
+                            <li><b>UI/UX 구성:</b> 사용자가 핵심 기능에 직관적으로 접근할 수 있도록 일부 Front-end UI 가독성 개선</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <br>
+            <!-- 2. 메신저 프로젝트 -->
+            <li>
+                📌 <b><a href="https://github.com/dabin5682/messenger-exercise-ATGG_03_011-ATGG_03_041" style="text-decoration: none; color: #0969da;">Java TCP Socket 실시간 팀 메신저 프로그램</a></b>
+                <ul>
+                    <li><b>Description:</b> Java Socket 프로그래밍을 활용하여 네트워크 통신 흐름을 직접 제어한 실시간 채팅 서비스</li>
+                    <li><b>My Role:</b> Client-side 아키텍처 설계 및 구현</li>
+                    <li><b>Key Contributions:</b>
+                        <ul>
+                            <li><b>실시간 스트림 처리:</b> 서버와의 안정적인 TCP 연결 수립 및 입출력(I/O) 스트림 제어</li>
+                            <li><b>클라이언트 로직 최적화:</b> 서버로부터 전달받은 채팅 데이터를 파싱하여 사용자 화면에 실시간으로 동기화하는 로직 구현</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
         </ul>
     </div> 
 </div>
