@@ -33,7 +33,6 @@
 </div>
 
 <!-- 💻 주요 프로젝트나 학습 내용을 보여줄 수 있는 섹션 (선택 사항, 필요시 주석 해제하여 사용) -->
-<!--
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Main Projects </h2>  
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33; line-height: 1.8;"> 
@@ -43,7 +42,6 @@
         </ul>
     </div> 
 </div>
--->
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
