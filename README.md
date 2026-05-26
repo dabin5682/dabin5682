@@ -8,7 +8,7 @@
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33; line-height: 1.8;"> 
         <ul>
             <li>🎓 <b>조선대학교</b> 컴퓨터공학과 재학 중 (2027년 8월 졸업 예정)</li>
-            <li>📈 <b>현재 학점:</b> 4.33 / 4.5 (철저한 전공 지식과 성실함을 유지하고 있습니다.)</li>
+            <li>📈 <b>현재 학점:</b> 4.33 / 4.5 </li>
             <li>🔥 <b>교육 이수:</b> <b>NHN 아카데미 AIoT(IoT/AI융합) 과정</b> 참여 중 (2025.12 ~ 2026.09 예정)</li>
             <li>🚀 <b>관심 분야:</b> 대용량 데이터 처리와 안정적인 시스템을 설계하는 <b>백엔드 개발(Backend Development)</b></li>
             <li>🌱 <b>Focusing on:</b> Java/Spring 기반 웹 아키텍처, 효율적인 RDBMS 설계, IoT 인프라 및 실시간 데이터 연동 학습 중</li>
